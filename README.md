@@ -33,6 +33,7 @@ and if you want an explanation of the code, scroll down below.
 
 ## Code explanation
 
+Other parts are same as cg_hw8_Q1.
 
 ```
 GLuint meshVAO, meshVBO, meshEBO;
